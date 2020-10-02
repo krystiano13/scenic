@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scenic/static/css/main.9dd0fc06.chunk.css",
+    "main.js": "/scenic/static/js/main.4d6b08e4.chunk.js",
+    "main.js.map": "/scenic/static/js/main.4d6b08e4.chunk.js.map",
+    "runtime-main.js": "/scenic/static/js/runtime-main.1a2a64dc.js",
+    "runtime-main.js.map": "/scenic/static/js/runtime-main.1a2a64dc.js.map",
+    "static/js/2.817aba02.chunk.js": "/scenic/static/js/2.817aba02.chunk.js",
+    "static/js/2.817aba02.chunk.js.map": "/scenic/static/js/2.817aba02.chunk.js.map",
+    "index.html": "/scenic/index.html",
+    "precache-manifest.a269170250a008f463ecb670d8a90aa0.js": "/scenic/precache-manifest.a269170250a008f463ecb670d8a90aa0.js",
+    "service-worker.js": "/scenic/service-worker.js",
+    "static/css/main.9dd0fc06.chunk.css.map": "/scenic/static/css/main.9dd0fc06.chunk.css.map",
+    "static/js/2.817aba02.chunk.js.LICENSE.txt": "/scenic/static/js/2.817aba02.chunk.js.LICENSE.txt",
+    "static/media/Hero.module.scss": "/scenic/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/Introduce.module.scss": "/scenic/static/media/team-image4.644ec0e1.jpg",
+    "static/media/video.mp4": "/scenic/static/media/video.a95af86a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2a64dc.js",
+    "static/js/2.817aba02.chunk.js",
+    "static/css/main.9dd0fc06.chunk.css",
+    "static/js/main.4d6b08e4.chunk.js"
+  ]
+}
